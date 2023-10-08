@@ -1,5 +1,5 @@
-# minecraft-server-bukkit
-마인크래프트 서버 버킷 모음집
+# 마인크래프트 서버 버킷 모음집
+페이퍼/스피곳 등 서버 버킷 모음집 입니다!
 
 <details><summary>페이퍼 버킷</summary>
   
