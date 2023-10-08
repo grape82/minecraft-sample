@@ -1,6 +1,8 @@
+<div align="center">
+  
 # 마인크래프트 서버 버킷 모음집
-페이퍼/스피곳 등 서버 버킷 모음집 입니다!
-
+  
+</div>
 <details><summary>⭐ 플라즈마 버킷</summary>
   
 | Version (버전)                                                | 자바 버전 (Java Version) | 다운로드 (Download) | 
