@@ -2,6 +2,8 @@
   
 # 마인크래프트 서버 버킷 모음집
   
+[서버 사용 방법과 램 설정 방법](https://github.com/grape82/minecraft-server-bukkit/blob/main/howtouse.md)
+
 </div>
 <details><summary>⭐ 플라즈마 버킷</summary>
   
