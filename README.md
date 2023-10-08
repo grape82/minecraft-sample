@@ -30,5 +30,5 @@
 | 1.20 | 17 이상 |[다운로드](https://www.mediafire.com/file/k6o2hzhhq49lnkr/1.20_%25ED%258E%2598%25EC%259D%25B4%25ED%258D%25BC_%25EC%2584%259C%25EB%25B2%2584_%25EB%25B2%2584%25ED%2582%25B7.zip/file) |
 </details>
 
-## ⚙️ 램 설정 방법
+## ⚙️ 서버 사용법 및 램 변경 방법
 [**클릭해서 이동해주세요**](https://github.com/grape82/minecraft-server-bukkit/blob/main/howtouse.md)
