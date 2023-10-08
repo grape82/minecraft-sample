@@ -1,8 +1,8 @@
 <div align="center">
 
-</div>
-
 # 서버 사용법 및 램 변경
+
+</div>
 
 ### 서버 사용법
 
