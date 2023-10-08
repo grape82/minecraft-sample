@@ -11,7 +11,8 @@
 
 </div>
 
-## ⬇️ Downloads
+## ⬇️ 다운로드
+### 원하는 버킷을 선택해서 다운로드하세요!
 
 <details><summary>⭐ 플라즈마 버킷</summary>
   
