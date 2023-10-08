@@ -1,6 +1,16 @@
 # 마인크래프트 서버 버킷 모음집
 페이퍼/스피곳 등 서버 버킷 모음집 입니다!
 
+<details><summary>⭐ 플라즈마 버킷</summary>
+  
+| Version (버전)                                                | 자바 버전 (Java Version) | 다운로드 (Download) | 
+| :---:                                                        | :---:            | :---: |
+| 1.20.2 | 17 이상 | 없음 |
+| 1.20.1 | 17 이상 |[다운로드](https://www.mediafire.com/file/oys631to98n8pyh/1.20.1_%25ED%2594%258C%25EB%259D%25BC%25EC%25A6%2588%25EB%25A7%2588_%25EC%2584%259C%25EB%25B2%2584_%25EB%25B2%2584%25ED%2582%25B7.zip/file) |
+| 1.20 | ??? | 없음 |
+| 1.19.4 | 17 이상 |[다운로드](https://www.mediafire.com/file/nu12xipm587y2k6/1.19.4_%25ED%2594%258C%25EB%259D%25BC%25EC%25A6%2588%25EB%25A7%2588_%25EB%25B2%2584%25ED%2582%25B7.zip/file) |
+</details>
+
 <details><summary>⭐ 페이퍼 버킷</summary>
   
 | Version (버전)                                                | 자바 버전 (Java Version) | 다운로드 (Download) | 
