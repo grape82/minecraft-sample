@@ -10,6 +10,9 @@
 [< 서버 사용 방법과 램 설정 방법 >](https://github.com/grape82/minecraft-server-bukkit/blob/main/howtouse.md)
 
 </div>
+
+## ⬇️ Downloads
+
 <details><summary>⭐ 플라즈마 버킷</summary>
   
 | Version (버전)                                                | 자바 버전 (Java Version) | 다운로드 (Download) | 
