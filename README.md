@@ -7,7 +7,7 @@
 [![Forks](https://img.shields.io/github/forks/grape82/minecraft-server-bukkit?label=forks&style=for-the-badge&style=flat-square&color=green)](https://github.com/grape82/minecraft-server-bukkit/releases/forks)
 [![Watchers](https://img.shields.io/github/watchers/grape82/minecraft-server-bukkit?label=watchers&style=for-the-badge&style=flat-square&color=green)](https://github.com/grape82/minecraft-server-bukkit/watchers)
   
-[서버 사용 방법과 램 설정 방법](https://github.com/grape82/minecraft-server-bukkit/blob/main/howtouse.md)
+[< 서버 사용 방법과 램 설정 방법 >](https://github.com/grape82/minecraft-server-bukkit/blob/main/howtouse.md)
 
 </div>
 <details><summary>⭐ 플라즈마 버킷</summary>
