@@ -6,6 +6,9 @@
 </div>
 
 ## 🖥 서버 사용법
+
+https://www.youtube.com/watch?v=FU5UDJFvyPA
+
 1. 서버 구동기를 다운로드 받고 압축을 풉니다.
 2. 서버 폴더를 들어갑니다.
 3. 서버 시작.bat 를 실행합니다.
