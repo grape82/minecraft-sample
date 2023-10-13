@@ -1,4 +1,4 @@
-# 마인크래프트 서버 버킷 샘플
+# 마인크래프트 샘플 모음집
 
 [![Version](https://img.shields.io/badge/Version-~1.20.2-6047ff?&logo=Webpack&logoColor=ffffff&style=for-the-badge&style=flat-square)](https://github.com/grape82/minecraft-server-bukkit)
 [![Stargazers](https://img.shields.io/github/stars/grape82/minecraft-server-bukkit?label=stars&style=for-the-badge&style=flat-square&color=yellow)](https://github.com/grape82/minecraft-server-bukkit/stargazers)
@@ -8,7 +8,7 @@
 </div>
 
 ## ⬇️ 다운로드
-### 원하는 버킷을 선택해서 다운로드하세요!
+### 원하는 걸 선택해서 다운로드하세요!
 
 <details><summary>⭐ 플라즈마 버킷</summary>
   
@@ -34,7 +34,7 @@
 
 </details>
 
-<details><summary>❌ 데이터팩 샘플</summary>
+<details><summary>⭐ 데이터팩 샘플</summary>
 
 | Version (버전)  | 다운로드 (Download) | 
 | :---: | :---: |
