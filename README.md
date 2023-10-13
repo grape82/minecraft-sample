@@ -1,5 +1,3 @@
-<div align="center">
-  
 # 마인크래프트 서버 버킷 샘플
 
 [![Version](https://img.shields.io/badge/Version-~1.20.2-6047ff?&logo=Webpack&logoColor=ffffff&style=for-the-badge&style=flat-square)](https://github.com/grape82/minecraft-server-bukkit)
@@ -35,6 +33,16 @@
 [**페이퍼 사이트**](https://papermc.io/downloads/paper)
 
 </details>
+
+<details><summary>❌ 데이터팩 샘플</summary>
+
+| Version (버전)  | 다운로드 (Download) | 
+| :---: | :---: |
+| 1.20.2 |[다운로드](https://github.com/grape82/minecraft-server-bukkit/releases/download/1.20.2-Datapack-Sample/1.20.2-Datapack-Sample.zip) |
+  
+</details>
+
+
 
 ## ⚙️ 서버 사용법 및 램 변경 방법
 [![](https://i9.ytimg.com/vi/FU5UDJFvyPA/mqdefault.jpg?v=6527ccea&sqp=COCEpKkG&rs=AOn4CLAdmNLsS13TfavdvgBHWW7sQxRUEw)](https://www.youtube.com/watch?v=FU5UDJFvyPA)
