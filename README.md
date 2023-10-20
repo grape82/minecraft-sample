@@ -44,11 +44,14 @@
   
 </details>
 
-
-
 ## ⚙️ 서버 사용법 및 램 변경 방법
 [![](https://img.youtube.com/vi/FU5UDJFvyPA/0.jpg)](https://www.youtube.com/watch?v=FU5UDJFvyPA)
 
 
 
 [**클릭해서 이동해주세요**](https://github.com/grape82/minecraft-server-bukkit/blob/main/howtouse.md)
+
+
+## ❓ QNA
+- 저는 eula를 동의 한 적이 없는데 서버가 시작되나요?
+  - "flag" 라는 걸 사용했기 때문에 바로 서버가 시작됩니다!
