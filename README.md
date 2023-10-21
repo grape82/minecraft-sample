@@ -28,7 +28,7 @@
   
 | Version (버전)                                                | 자바 버전 (Java Version)| 코어 버전 (Core Version) | 다운로드 (Download) | 
 | :---:                                                        | :---:            | :---: |:---: |
-| 1.20.2 | 17 이상 | #222 |[다운로드](https://github.com/grape82/minecraft-server-bukkit/releases/download/1.20.2-Paper-Server/1.20.2-Paper-Server.zip) |
+| 1.20.2 | 17 이상 | #241 |[다운로드](https://github.com/grape82/minecraft-server-bukkit/releases/download/1.20.2-Paper-Server/1.20.2-Paper-Server.zip) |
 | 1.20.1 | 17 이상 | #196 |[다운로드](https://github.com/grape82/minecraft-server-bukkit/releases/download/1.20.1-Paper-Server/1.20.1-Paper-Server.zip) |
 | 1.20 | 17 이상 | #17 |[다운로드](https://github.com/grape82/minecraft-server-bukkit/releases/download/1.20-Paper-Server/1.20-Paper-Server.zip) |
 
