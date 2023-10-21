@@ -46,8 +46,7 @@
 </details>
 
 ## ⚙️ 서버 사용법 및 램 변경 방법
-[![](https://img.youtube.com/vi/FU5UDJFvyPA/0.jpg)](https://www.youtube.com/watch?v=FU5UDJFvyPA)
-
+[![](https://img.youtube.com/vi/pAUijpAcs74/0.jpg)](https://youtu.be/pAUijpAcs74)
 
 
 [**클릭해서 이동해주세요**](https://github.com/grape82/minecraft-server-bukkit/blob/main/howtouse.md)
