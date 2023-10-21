@@ -2,10 +2,11 @@
   
 # 마인크래프트 샘플 모음집
 
-[![Version](https://img.shields.io/badge/Version-~1.20.2-6047ff?&logo=Webpack&logoColor=ffffff&style=for-the-badge&style=flat-square)](https://github.com/grape82/minecraft-server-bukkit)
-[![Stargazers](https://img.shields.io/github/stars/grape82/minecraft-server-bukkit?label=stars&style=for-the-badge&style=flat-square&color=yellow)](https://github.com/grape82/minecraft-server-bukkit/stargazers)
-[![Forks](https://img.shields.io/github/forks/grape82/minecraft-server-bukkit?label=forks&style=for-the-badge&style=flat-square&color=green)](https://github.com/grape82/minecraft-server-bukkit/releases/forks)
-[![Watchers](https://img.shields.io/github/watchers/grape82/minecraft-server-bukkit?label=watchers&style=for-the-badge&style=flat-square&color=green)](https://github.com/grape82/minecraft-server-bukkit/watchers)
+[![Version](https://img.shields.io/badge/Version-~1.20.2-6047ff?&logo=Webpack&logoColor=ffffff&style=for-the-badge&style=flat-square)](https://github.com/grape82/minecraft-sample)
+[![Downloads](https://img.shields.io/github/downloads/grape82/minecraft-sample/total?label=Downloads&style=for-the-badge&style=flat-square)](https://github.com/grape82/minecraft-sample/releases)
+[![Stargazers](https://img.shields.io/github/stars/grape82/minecraft-sample?label=stars&style=for-the-badge&style=flat-square&color=yellow)](https://github.com/grape82/minecraft-sample/stargazers)
+[![Forks](https://img.shields.io/github/forks/grape82/minecraft-sample?label=forks&style=for-the-badge&style=flat-square&color=green)](https://github.com/grape82/minecraft-sample/releases/forks)
+[![Watchers](https://img.shields.io/github/watchers/grape82/minecraft-sample?label=watchers&style=for-the-badge&style=flat-square&color=green)](https://github.com/grape82/minecraft-sample/watchers)
 
 </div>
 
