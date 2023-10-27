@@ -18,7 +18,7 @@
 | Version (버전)                                                | 자바 버전 (Java Version) | 다운로드 (Download) | 
 | :---:                                                        | :---:            | :---: |
 | 1.20.2 | 17 이상 | 없음 |
-| 1.20.1 | 17 이상 |[다운로드](https://github.com/grape82/minecraft-server-bukkit/releases/download/1.19.4-Plazma-Server/1.20.1-Plazma-Server.zip) |
+| 1.20.1 | 17 이상 |[다운로드](https://github.com/grape82/minecraft-server-bukkit/releases/download/1.20.1-Plazma-Server/1.20.1-Plazma-Server.zip) |
 | 1.19.4 | 17 이상 |[다운로드](https://github.com/grape82/minecraft-server-bukkit/releases/download/1.19.4-Plazma-Server/1.19.4-Plazma-Server.zip) |
 
 [**플라즈마 사이트**](https://github.com/PlazmaMC/Plazma)
