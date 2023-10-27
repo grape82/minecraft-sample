@@ -54,7 +54,7 @@
 [![](https://img.youtube.com/vi/pAUijpAcs74/0.jpg)](https://youtu.be/pAUijpAcs74)
 
 
-[**클릭해서 이동해주세요**](https://github.com/grape82/minecraft-server-bukkit/blob/main/howtouse.md)
+[**클릭해서 이동해주세요**](https://github.com/grape82/minecraft-sample/blob/main/howtouse.md)
 
 
 ## ❓ QNA
