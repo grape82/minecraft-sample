@@ -42,6 +42,14 @@
 
 </details>
 
+<details><summary>⭐ 간단 서버 생성기 (비추천)</summary>
+
+| Version (버전)                                                | 자바 버전 (Java Version)| 코어 버전 (Core Version) | 다운로드 (Download) | 
+| :---:                                                        | :---:            | :---: |:---: |
+| 1.20.2 | 17 이상 | #241 |[다운로드](https://github.com/grape82/minecraft-sample/releases/download/EasyServerGenerator1.20.2/Easy-Server-Generator.ps1) |
+  
+</details>
+
 <details><summary>⭐ 데이터팩 샘플</summary>
 
 | Version (버전)  | 다운로드 (Download) | 
