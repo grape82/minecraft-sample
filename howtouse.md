@@ -9,7 +9,7 @@
 
 ## 🖥 서버 사용법
 
-https://www.youtube.com/watch?v=FU5UDJFvyPA
+[![](https://img.youtube.com/vi/pAUijpAcs74/0.jpg)](https://youtu.be/pAUijpAcs74)
 
 1. 서버 구동기를 다운로드 받고 압축을 풉니다.
 2. 서버 폴더를 들어갑니다.
