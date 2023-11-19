@@ -7,6 +7,7 @@
 [![Stargazers](https://img.shields.io/github/stars/grape82/minecraft-sample?label=stars&style=for-the-badge&style=flat-square&color=yellow)](https://github.com/grape82/minecraft-sample/stargazers)
 [![Forks](https://img.shields.io/github/forks/grape82/minecraft-sample?label=forks&style=for-the-badge&style=flat-square&color=green)](https://github.com/grape82/minecraft-sample/releases/forks)
 [![Watchers](https://img.shields.io/github/watchers/grape82/minecraft-sample?label=watchers&style=for-the-badge&style=flat-square&color=green)](https://github.com/grape82/minecraft-sample/watchers)
+[![YouTube](https://img.shields.io/badge/YouTube-포도-red.svg?logo=youtube)](https://www.youtube.com/channel/UCRO5ekxPBR5WIsYozR92gUw)
 
 </div>
 
