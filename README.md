@@ -43,6 +43,18 @@
 
 </details>
 
+<details><summary>⭐ Mohist 버킷 (포지, 플러그인 버킷)</summary>
+  
+| Version (버전)                                                | 코어 버전 (Core Version) | 다운로드 (Download) | 
+| :---:                                                        | :---: |:---: |
+| 1.20.1 | #493 |[다운로드](https://github.com/grape82/minecraft-sample/releases/download/1.20.1-Mohist-server/1.20.1-Mohist-Server.zip) |
+| 1.16.5 | #123 |[다운로드](https://github.com/grape82/minecraft-sample/releases/download/1.16.5-Mohist-server/1.16.5-Mohist-Server.zip) |
+| 1.12.2 | #313 |[다운로드](https://github.com/grape82/minecraft-sample/releases/download/1.12.2-Mohist-server/1.12.2-Mohist-Server.zip) |
+
+[**페이퍼 사이트**](https://papermc.io/downloads/paper)
+
+</details>
+
 <details><summary>⭐ 간단 서버 생성기 (비추천)</summary>
 
 | Version (버전)                                                | 자바 버전 (Java Version)| 코어 버전 (Core Version) | 다운로드 (Download) | 
